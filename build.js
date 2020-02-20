@@ -13,7 +13,7 @@ const options = {
   borderStyle: 'round'
 }
 
-const heading = 'Jason Etcovitch / jasonetco'
+const heading = 'Jason Etcovitch / https://jasonet.co'
 const github = chalk.gray('https://github.com/') + chalk.blue('jasonetco')
 const twitter = chalk.gray('https://twitter.com/') + chalk.cyan('jasonetco')
 
